@@ -22,9 +22,9 @@
 
 ## 📫 Reach me
 
-📧 your-email@gmail.com
+📧 abhishekprasadkumar691@gmail.com
 
-💼 LinkedIn: your-linkedin-url
+💼 www.linkedin.com/in/abhishek-prasad-kumar-420108305
 
 ---
 
