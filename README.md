@@ -12,11 +12,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Learning Cybersecurity and VAPT
-- 🔍 Interested in Web Security & API Security
-- 🛠 Building security tools using Python
-- 📚 Currently learning OWASP Top 10 & Burp Suite
-- 🚀 Goal: Build practical cybersecurity projects and work as a cybersecurity professional
+## 👨‍💻 About Me
+
+- 💼 Currently working as [Your Role] at [Company Name]
+- 🔐 Working on cybersecurity projects and security assessments
+- 🛠 Building tools using Python for automation and security testing
+- 🔍 Interested in VAPT, API Security, and Web Application Security
+- 📚 Continuously improving skills in Burp Suite, OWASP Top 10, and penetration testing
+- 🚀 Goal: Build impactful cybersecurity solutions and grow as a security professional
 
 ---
 
