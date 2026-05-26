@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Abhishek Prasad
 
-### Cybersecurity Enthusiast | VAPT | API Security | Web Security
+### Cybersecurity Professional | VAPT | Infra Audit | Python
 
 ![](https://komarev.com/ghpvc/?username=AbhishekPrasadkumar&color=blue)
 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as [Your Role] at [Company Name]
+- 💼 Currently working as Cyber Security Associate at Digital University Of Kerala
 - 🔐 Working on cybersecurity projects and security assessments
 - 🛠 Building tools using Python for automation and security testing
 - 🔍 Interested in VAPT, API Security, and Web Application Security
